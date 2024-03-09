@@ -2,7 +2,7 @@
 
 Understanding activation functions is crucial in comprehending the behavior of artificial neural networks. Given the plethora of variants, I've compiled a concise overview to provide clarity.
 
-You can access the comprehensive implementations of these functions in Python along with accompanying plots through the [notebook](https://github.com/siebenrock/activation-functions/blob/master/activation_functions.ipynb). Notably, the Parametric ReLU is akin to Leaky ReLU, but with the leakage coefficient learned as a neural network parameter.
+You can access the comprehensive implementations of these functions in Python along with accompanying plots through the [notebook](https://github.com/mmiimran/activation-function/blob/main/activation_functions.ipynb). Notably, the Parametric ReLU is akin to Leaky ReLU, but with the leakage coefficient learned as a neural network parameter.
 
 | Function | Plot | Equation | Derivative |
 |----|:---:|:---:|:---:|
